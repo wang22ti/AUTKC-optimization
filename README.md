@@ -2,7 +2,7 @@
 
 This is a Pytorch implementation of `AUTKC optimization` described in our paper:
 
->Z. Wang, Q. Xu, Z. Yang, Y. He, X. Cao and Q. Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (Early Access).
+> Zitai Wang, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45(4): 5053–5069, 2023.
 
 And its Arxiv version can be found [here](https://arxiv.org/pdf/2209.01398.pdf).
 
@@ -32,8 +32,10 @@ python main.py --dataset "cifar-100" --loss atop --weight_scheme Exp --resume ch
                Xiaochun Cao and
                Qingming Huang},
   title     = {Optimizing Partial Area Under the Top-k Curve: Theory and Practice},
-  journal   = {CoRR},
-  volume    = {abs/2209.01398},
-  year      = {2022},
+  journal   = {{IEEE} Transactions on Pattern Analysis and Machine Intelligence},
+  volume    = {45},
+  number    = {4},
+  year      = {2023},
+  pages     = {5053--5069}
 }
 ```
