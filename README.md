@@ -24,7 +24,7 @@ python main.py --dataset "cifar-100" --loss atop --weight_scheme Exp --resume ch
 
 ```
 
-@article{DBLP:journals/corr/abs-2209-01398,
+@article{autkc,
   author    = {Zitai Wang and
                Qianqian Xu and
                Zhiyong Yang and
