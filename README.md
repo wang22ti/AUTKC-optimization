@@ -6,6 +6,8 @@ This is a Pytorch implementation of `AUTKC optimization` described in our paper:
 
 And its Arxiv version can be found [here](https://arxiv.org/pdf/2209.01398.pdf).
 
+The original version of our codes involves a non-standard IO operation, which is described later. Most recently, we provide a new demo that follows the standard learning pipline, which can be found in our [library](https://github.com/statusrank/XCurve/blob/master/example/example_ipynb/cifar_100_AUTKC.ipynb).
+
 ## Dependencies
 Please see the `requirements.yml` in the root folder.
 
